@@ -4,17 +4,19 @@
     "url": "https://hugorodrigues.xyz",
     "icon": "https://favicons.githubusercontent.com/hugorodrigues.xyz",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 838,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
-    "dailyMinutesDown": {}
+    "time": 1293,
+    "timeDay": 3077,
+    "timeWeek": 1373,
+    "timeMonth": 1293,
+    "timeYear": 1293,
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
